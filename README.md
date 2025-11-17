@@ -1,27 +1,28 @@
 <p align="center">
-    <h1 align="center">Hi👋, I'm MD. Nahid Hossen</h1>
+    <h1 align="center">Hi👋, I'm MD BAYZID HOSEN</h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum;Welcome+to+my+profile!;I'm+MD.Nahid+Hossen&font=Fira%20Code&center=true&color=0384fc&width=300&height=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum;Welcome+to+my+profile!;I'm+MD+Bayzid+Hosen&font=Fira%20Code&center=true&color=0384fc&width=300&height=30">
 </p>
  
-<a href="https://nahid.info.bd/">
+<a href="https://mdbayzid-portfolio.web.app/">
 <img src="https://mpfahmozslhajtyumlug.supabase.co/storage/v1/object/public/github//Untitled%20design%20(3).png" />
 </a>
 
 
 ### About Me  
-I'm Nahid Hossen, a Computer Science and Technology student with a strong focus on Flutter app development. I specialize in building high-performance, visually appealing applications with clean and efficient code. My expertise includes UI/UX design, API integrations, and advanced state management.  
+I'm Md Bayzid Hosen, a Computer Science & Technology student specializing in cross-platform application development using Flutter. I have strong skills in UI/UX design, REST API implementation, and advanced state management. I am committed to building scalable, maintainable, and user-centric mobile applications that deliver excellent performance and a smooth user experience.  
 
 ### Skills & Expertise  
 
-- Advanced UI design and implementation  
-- Pixel-perfect UI replication from Figma and Adobe XD  
-- State management with GetX and Provider  
-- REST API integration and backend communication  
-- Google Maps API implementation  
-- Firebase authentication and database integration  
-- AI prompt engineering 
+ Flutter & Dart — Cross-platform mobile app development
+ State Management — GetX
+ API Integration — RESTful APIs
+ Local Storage — Shared Preferences
+ Backend & Cloud — Firebase Authentication, Firestore Database
+ Version Control — Git & GitHub
+ Localization — Multi-Language App Support
+ Responsive UI Design — Adaptive layouts for all screen sizes 
 
 I am always exploring new technologies and refining my skills to develop scalable and efficient mobile applications.
 
@@ -33,20 +34,22 @@ I am always exploring new technologies and refining my skills to develop scalabl
 ## <span style="color:gray">Status</span>
 <!-- GitHub Stats and Streak in One Row -->
 <!-- Custom GitHub Stats Layout -->
+## <span style="color:gray">Status</span>
+
 <table align="center">
   <tr>
     <td rowspan="2">
       <a href="https://github.com/anuraghazra/github-readme-stats"> 
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnahidhossen1911&show_icons=true&locale=en&theme=transparent&text_color=808080&border_color=DDDDDD" alt="mdnahidhossen1911" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdbayzid131&show_icons=true&locale=en&theme=transparent&text_color=808080&border_color=DDDDDD" alt="mdbayzid131" />
       </a>
       <br><br>
       <a href="https://github.com/anuraghazra/github-readme-streak-stats"> 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnahidhossen1911&theme=transparent&text_color=808080&border_color=DDDDDD" alt="GitHub Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdbayzid131&theme=transparent&text_color=808080&border_color=DDDDDD" alt="GitHub Streak Stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats"> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnahidhossen1911&langs_count=10&layout=donut-vertical&count_private=true&theme=transparent&text_color=808080&border_color=DDDDDD" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdbayzid131&langs_count=10&layout=donut-vertical&count_private=true&theme=transparent&text_color=808080&border_color=DDDDDD" alt="Top Languages" />
       </a>
     </td>
   </tr>
@@ -54,6 +57,6 @@ I am always exploring new technologies and refining my skills to develop scalabl
 
 <div align="center">
    <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnahidhossen1911&theme=transparent&hide_border=false&text_color=808080&bg_color=00000000&color=0384fc&line=0384fc&point=0384fc" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdbayzid131&theme=transparent&hide_border=false&text_color=808080&bg_color=00000000&color=0384fc&line=0384fc&point=0384fc" width="100%"/>
 </div>
 
