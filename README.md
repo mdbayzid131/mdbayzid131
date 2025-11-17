@@ -35,7 +35,6 @@ I am always exploring new technologies and refining my skills to develop scalabl
 ## <span style="color:gray">Status</span>
 <!-- GitHub Stats and Streak in One Row -->
 <!-- Custom GitHub Stats Layout -->
-## <span style="color:gray">Status</span>
 
 <table align="center">
   <tr>
