@@ -6,7 +6,7 @@
 </p>
  
 <a href="https://mdbayzid-portfolio.web.app/">
-<img src="https://mpfahmozslhajtyumlug.supabase.co/storage/v1/object/public/github//Untitled%20design%20(3).png" />
+<img src="https://i.ibb.co.com/v5DZt0h/Chat-GPT-Image-PM.png" />
 </a>
 
 
