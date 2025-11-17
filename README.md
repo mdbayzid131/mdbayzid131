@@ -1,12 +1,12 @@
 <p align="center">
-    <h1 align="center">Hi👋, I'm MD BAYZID HOSEN</h1>
+    <h1 align="center">Hi👋, I'M MD BAYZID HOSEN</h1>
 </p>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum;Welcome+to+my+profile!;I'm+MD+Bayzid+Hosen&font=Fira%20Code&center=true&color=0384fc&width=300&height=30">
 </p>
  
 <a href="https://mdbayzid-portfolio.web.app/">
-<img src="https://i.ibb.co.com/v5DZt0h/Chat-GPT-Image-PM.png" />
+<img src="https://mpfahmozslhajtyumlug.supabase.co/storage/v1/object/public/github//Untitled%20design%20(3).png" />
 </a>
 
 
