@@ -13,15 +13,17 @@
 ### About Me  
 I'm Md Bayzid Hosen, a Computer Science & Technology student specializing in cross-platform application development using Flutter. I have strong skills in UI/UX design, REST API implementation, and advanced state management. I am committed to building scalable, maintainable, and user-centric mobile applications that deliver excellent performance and a smooth user experience.  
 
-SKILLS
- Flutter & Dart — Cross-platform mobile app development
- State Management — GetX
- API Integration — RESTful APIs
- Local Storage — Shared Preferences
- Backend & Cloud — Firebase Authentication, Firestore Database
- Version Control — Git & GitHub
- Localization — Multi-Language App Support
- Responsive UI Design — Adaptive layouts for all screen sizes
+### 🛠 Tech Skills
+
+- 🚀 Flutter & Dart — Cross-platform mobile app development
+- 🧩 State Management — GetX
+- 🔗 API Integration — RESTful APIs
+- 💾 Local Storage — Shared Preferences
+- ☁ Firebase Authentication & Firestore Database
+- 🌐 Git & GitHub
+- 🌏 Localization — Multi-Language App Support
+- 📱 Responsive UI Design — Adaptive layouts
+
 
 I am always exploring new technologies and refining my skills to develop scalable and efficient mobile applications.
 
