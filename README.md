@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0384fc&height=200&section=header&text=MD%20BAYZID%20HOSEN&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20|%20UI/UX%20Enthusiast&descAlignY=60&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0384fc&height=200&section=header&text=MD%20BAYZID%20HOSEN&fontSize=70&animation=fadeIn&fontAlignY=35&desc=B.Sc%20in%20CSE%20Student%20|%20Full%20Stack%20Mobile%20Aspirant&descAlignY=60&descSize=25" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum;Welcome+to+my+Creative+Space!;Building+Scalable+Mobile+Applications;Flutter+Expert+%26+UI+Designer&font=Fira%20Code&center=true&color=0384fc&width=500&height=40">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum;B.Sc.+in+Computer+Science+%26+Engineering;Flutter+Expert+%26+UI/UX+Designer;Future+Backend+Engineer;Exploring+AI-Driven+Development&font=Fira%20Code&center=true&color=0384fc&width=600&height=40">
 </p>
 
 <p align="center">
@@ -22,40 +22,52 @@
 
 ### 💫 About Me
 <p align="left">
-  I am a passionate <b>Computer Science & Technology</b> student specializing in high-performance cross-platform application development. My focus is on creating <b>scalable, maintainable, and user-centric</b> mobile solutions that provide a premium user experience. I thrive on solving complex problems and turning creative ideas into functional realities.
+  I am a <b>B.Sc. in Computer Science & Engineering (CSE)</b> student with a deep-rooted passion for software engineering. Currently, I am a <b>Flutter Specialist</b> with a strong foundation in <b>UI/UX Design</b>, crafting aesthetic and functional mobile experiences. 
+  <br><br>
+  🚀 <b>My Current Mission:</b> I am actively expanding my horizon into <b>Backend Systems</b> to become a proficient Full-Stack Developer. I believe in the power of <b>AI-Augmented Development</b> and leverage cutting-edge tools to build faster, smarter, and more efficient applications.
 </p>
 
 ---
 
-### 🛠 Technical Toolkit
+### 🛠 Technical Ecosystem
 
 <table>
   <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">🚀 Frontend</h3>
+    <td valign="top" width="25%">
+      <h3 align="center">📱 Mobile & UI</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/GetX-800080?style=for-the-badge&logo=getx&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Responsive_UI-FF69B4?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/UI/UX-FF69B4?style=for-the-badge" /><br>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
       </p>
     </td>
-    <td valign="top" width="33%">
-      <h3 align="center">☁️ Backend & Data</h3>
+    <td valign="top" width="25%">
+      <h3 align="center">☁️ Backend & DB</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /><br>
-        <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /><br>
         <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" /><br>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Learning_Backend-gray?style=for-the-badge" />
       </p>
     </td>
-    <td valign="top" width="33%">
-      <h3 align="center">⚙️ DevTools</h3>
+    <td valign="top" width="25%">
+      <h3 align="center">🤖 AI & Tools</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Antigravity_AI-0384fc?style=for-the-badge" /><br>
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      </p>
+    </td>
+    <td valign="top" width="25%">
+      <h3 align="center">💻 Workspace</h3>
+      <p align="center">
         <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -63,7 +75,7 @@
 
 ---
 
-### 📊 GitHub Ecosystem
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdbayzid131&show_icons=true&theme=tokyonight&hide_border=true&title_color=0384fc&text_color=a9b1d6&icon_color=0384fc&bg_color=1a1b26" height="180em" />
@@ -85,8 +97,8 @@
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
-  <b>Happy Coding! 🚀</b>
+  <i>"Leveraging AI to turn imagination into executable code."</i><br>
+  <b>Stay Creative! 🚀</b>
 </p>
 
 
