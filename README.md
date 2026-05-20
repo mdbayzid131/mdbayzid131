@@ -1,71 +1,250 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0384fc&height=200&section=header&text=MD%20BAYZID%20HOSEN&fontSize=70&animation=fadeIn&fontAlignY=35&desc=B.Sc%20in%20CSE%20Student%20|%20Full%20Stack%20Mobile%20Aspirant&descAlignY=60&descSize=25" width="100%" />
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎨 HEADER — Premium Animated Banner                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum;B.Sc.+in+Computer+Science+%26+Engineering;Flutter+Expert+%26+UI/UX+Designer;Future+Backend+Engineer;Exploring+AI-Driven+Development&font=Fira%20Code&center=true&color=0384fc&width=600&height=40">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0384fc,100:0d1117&height=220&section=header&text=MD%20BAYZID%20HOSEN&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Software%20Engineer%20%E2%80%A2%20Flutter%20Specialist%20%E2%80%A2%20AI-Augmented%20Developer&descAlignY=55&descSize=18&descColor=a9b1d6" width="100%" />
 </p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ⌨️ ANIMATED TYPING                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0384FC&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Assalamu+Alaikum%2C+Welcome+to+my+Digital+Workshop;%F0%9F%93%B1+Crafting+Pixel-Perfect+Mobile+Experiences;%F0%9F%A4%96+Building+with+AI-Augmented+Development;%F0%9F%9A%80+Architecting+Scalable+Flutter+Solutions" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔗 SOCIAL & PROFESSIONAL LINKS                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
   <a href="https://mdbayzid-portfolio.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0384fc?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Portfolio-0384fc?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;
   <a href="https://linkedin.com/in/mdbayzid131" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="mailto:mdbayazid131@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://github.com/mdbayzid131" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;
+  <a href="https://facebook.com/mdbayzid131" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
----
-
-### 💫 About Me
-<p align="left">
-  I am a <b>B.Sc. in Computer Science & Engineering (CSE)</b> student with a deep-rooted passion for software engineering. Currently, I am a <b>Flutter Specialist</b> with a strong foundation in <b>UI/UX Design</b>, crafting aesthetic and functional mobile experiences. 
-  <br><br>
-  🚀 <b>My Current Mission:</b> I am actively expanding my horizon into <b>Backend Systems</b> to become a proficient Full-Stack Developer. I believe in the power of <b>AI-Augmented Development</b> and leverage cutting-edge tools to build faster, smarter, and more efficient applications.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdbayzid131&label=Profile+Views&color=0384fc&style=flat-square" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/mdbayzid131?label=Followers&style=flat-square&color=0384fc&labelColor=1a1b26" alt="Followers" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/mdbayzid131?label=Stars&style=flat-square&color=0384fc&labelColor=1a1b26" alt="Stars" />
 </p>
 
----
+<br>
 
-### 🛠 Technical Ecosystem
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📌 QUICK NAVIGATION                                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <a href="#-about-me"><img src="https://img.shields.io/badge/About-a9b1d6?style=flat-square&logo=aboutdotme&logoColor=white" /></a>&nbsp;
+  <a href="#-what-im-building-now"><img src="https://img.shields.io/badge/Current_Focus-ff9e64?style=flat-square&logo=target&logoColor=white" /></a>&nbsp;
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-9ece6a?style=flat-square&logo=rocket&logoColor=white" /></a>&nbsp;
+  <a href="#-technical-arsenal"><img src="https://img.shields.io/badge/Tech_Stack-bb9af7?style=flat-square&logo=stackblitz&logoColor=white" /></a>&nbsp;
+  <a href="#-github-analytics"><img src="https://img.shields.io/badge/Stats-7aa2f7?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="#-lets-connect"><img src="https://img.shields.io/badge/Contact-f7768e?style=flat-square&logo=handshake&logoColor=white" /></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 👤 ABOUT ME                                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+
+```yaml
+name: MD Bayzid Hosen
+role: Software Engineer & Flutter Specialist
+education: B.Sc. in Computer Science & Engineering
+location: Bangladesh 🇧🇩
+focus: Mobile-First Development | AI-Augmented Workflows
+```
+
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+- 🏗️ **Software Engineer** specializing in **Flutter** with production-grade mobile applications
+- 🎨 Strong foundation in **UI/UX Design** — pixel-perfect, user-centric interfaces
+- 🔥 Expert in **GetX State Management**, **REST API Integration**, and **Firebase**
+- 🤖 Pioneering **AI-Augmented Development** — leveraging Gemini, GPT, and Antigravity AI to ship 3x faster
+- 📱 Delivered **5+ mobile applications** from concept to deployment
+- 🌱 Currently expanding into **Backend Architecture** (Node.js, Express, MongoDB)
+- 🎯 **2025 Goal:** Become a proficient Full-Stack Mobile Engineer
+- ⚡ **Fun Fact:** I debug with coffee ☕ and ship features with determination 💪
+
+<br clear="right">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎯 CURRENT FOCUS                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🎯 What I'm Building Now
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔭 Currently Working On</h3>
+      <p>
+        • Production-grade Flutter apps with clean architecture<br>
+        • AI-integrated mobile experiences<br>
+        • Cross-platform solutions with shared business logic
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📚 Currently Learning</h3>
+      <p>
+        • Backend development with Node.js & Express<br>
+        • Database design with MongoDB & PostgreSQL<br>
+        • DevOps fundamentals & CI/CD pipelines
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤝 Open to Collaborate On</h3>
+      <p>
+        • Open-source Flutter packages & plugins<br>
+        • AI-powered mobile applications<br>
+        • Community-driven developer tools
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💡 Ask Me About</h3>
+      <p>
+        • Flutter architecture & best practices<br>
+        • GetX state management patterns<br>
+        • AI-augmented development workflows
+      </p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🚀 FEATURED PROJECTS                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+> _"Code is poetry — and these are my best verses."_
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📱 WhichWin — Decision Maker App</h3>
+      <p align="center">
+        <a href="https://github.com/mdbayzid131/which_win" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-0384fc?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        A beautifully designed Flutter app that helps users make decisions effortlessly. Features smooth animations, intuitive UI, and GetX-powered state management.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/GetX-800080?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 Personal Portfolio Website</h3>
+      <p align="center">
+        <a href="https://mdbayzid-portfolio.web.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-ff9e64?style=for-the-badge&logo=firebase&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        A modern, responsive portfolio website deployed on Firebase Hosting. Showcases my work, skills, and professional journey with a sleek, interactive design.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter_Web-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Responsive-9ece6a?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h3 align="center">🔮 More Projects Coming Soon...</h3>
+      <p align="center">
+        I'm constantly building and shipping. Star ⭐ my repos to stay updated on my latest work!
+      </p>
+      <p align="center">
+        <a href="https://github.com/mdbayzid131?tab=repositories" target="_blank">
+          <img src="https://img.shields.io/badge/View_All_Repositories-1a1b26?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🛠️ TECHNICAL ARSENAL                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Technical Arsenal
 
 <table>
   <tr>
     <td valign="top" width="25%">
-      <h3 align="center">📱 Mobile & UI</h3>
+      <h3 align="center">📱 Mobile & Frontend</h3>
+      <br>
       <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/GetX-800080?style=for-the-badge&logo=getx&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/UI/UX-FF69B4?style=for-the-badge" /><br>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Mobile" /><br><br>
+        <img src="https://img.shields.io/badge/GetX-800080?style=for-the-badge&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Bloc-0384fc?style=for-the-badge" /><br>
+        <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge" /><br>
+        <img src="https://img.shields.io/badge/Material_3-6750A4?style=for-the-badge&logo=material-design&logoColor=white" />
       </p>
     </td>
     <td valign="top" width="25%">
-      <h3 align="center">☁️ Backend & DB</h3>
+      <h3 align="center">☁️ Backend & Database</h3>
+      <br>
       <p align="center">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /><br>
+        <img src="https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb&theme=dark" alt="Backend" /><br><br>
         <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" /><br>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Learning_Backend-gray?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Dio_HTTP-0384fc?style=for-the-badge" /><br>
+        <img src="https://img.shields.io/badge/Hive_DB-FF6F00?style=for-the-badge" />
       </p>
     </td>
     <td valign="top" width="25%">
-      <h3 align="center">🤖 AI & Tools</h3>
+      <h3 align="center">🤖 AI & Productivity</h3>
+      <br>
       <p align="center">
-        <img src="https://img.shields.io/badge/Antigravity_AI-0384fc?style=for-the-badge" /><br>
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="Tools" /><br><br>
         <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Antigravity-0384fc?style=for-the-badge" /><br>
         <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
       </p>
     </td>
     <td valign="top" width="25%">
-      <h3 align="center">💻 Workspace</h3>
+      <h3 align="center">🔧 DevTools & Design</h3>
+      <br>
       <p align="center">
-        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br>
+        <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,git&theme=dark" alt="DevTools" /><br><br>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" />
       </p>
@@ -73,32 +252,167 @@
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📊 GitHub Analytics
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 💭 DEVELOPMENT PHILOSOPHY                                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 💭 Development Philosophy
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/48/code.png" width="40" /><br>
+      <b>Clean Code</b><br>
+      <sub>Readable, maintainable, and well-documented — every single time.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/48/user-experience.png" width="40" /><br>
+      <b>User-First</b><br>
+      <sub>Every pixel serves a purpose. Design with empathy, build with precision.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40" /><br>
+      <b>AI-Augmented</b><br>
+      <sub>Leverage intelligent tools to amplify human creativity, not replace it.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.icons8.com/fluency/48/infinity.png" width="40" /><br>
+      <b>Never Stop</b><br>
+      <sub>Continuous learning is the only true competitive advantage.</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 GITHUB TROPHIES                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdbayzid131&show_icons=true&theme=tokyonight&hide_border=true&title_color=0384fc&text_color=a9b1d6&icon_color=0384fc&bg_color=1a1b26" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdbayzid131&layout=compact&theme=tokyonight&hide_border=true&title_color=0384fc&text_color=a9b1d6&bg_color=1a1b26" height="180em" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdbayzid131&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB ANALYTICS                                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/mdbayzid131">
+    <img src="https://github-readme-stats.vercel.app/api?username=mdbayzid131&show_icons=true&theme=tokyonight&hide_border=true&title_color=0384fc&text_color=a9b1d6&icon_color=0384fc&bg_color=0d1117&count_private=true&include_all_commits=true" height="180em" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/mdbayzid131">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdbayzid131&layout=compact&theme=tokyonight&hide_border=true&title_color=0384fc&text_color=a9b1d6&bg_color=0d1117&langs_count=8" height="180em" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdbayzid131&theme=tokyonight&hide_border=true&stroke=0384fc&background=1a1b26&fire=0384fc&ring=0384fc" width="100%" />
+  <a href="https://github.com/mdbayzid131">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdbayzid131&theme=tokyonight&hide_border=true&stroke=0384fc&background=0d1117&fire=ff9e64&ring=0384fc&currStreakLabel=0384fc" width="70%" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdbayzid131&theme=tokyonight&bg_color=1a1b26&color=0384fc&line=0384fc&point=0384fc&area=true&hide_border=true" width="100%" />
+  <a href="https://github.com/mdbayzid131">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdbayzid131&theme=tokyo-night&bg_color=0d1117&color=0384fc&line=0384fc&point=ff9e64&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="100%" alt="Activity Graph" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🗺️ 2025 ROADMAP                                                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🗺️ 2025 Roadmap
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   ✅ Flutter Advanced         ████████████████████████████████  100%    │
+│   ✅ GetX State Management    ████████████████████████████████  100%    │
+│   ✅ Firebase Integration     ████████████████████████████████  100%    │
+│   ✅ REST API / Dio           █████████████████████████████░░░   90%    │
+│   ✅ UI/UX Design             █████████████████████████████░░░   90%    │
+│   🔄 Clean Architecture       ████████████████████████░░░░░░░░   75%    │
+│   🔄 Node.js & Express        ████████████████░░░░░░░░░░░░░░░░   50%    │
+│   🔄 MongoDB & PostgreSQL     ███████████░░░░░░░░░░░░░░░░░░░░░   35%    │
+│   📋 Docker & DevOps          ██████░░░░░░░░░░░░░░░░░░░░░░░░░░   20%    │
+│   📋 System Design            ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   15%    │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🐍 CONTRIBUTION SNAKE                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdbayzid131/mdbayzid131/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdbayzid131/mdbayzid131/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mdbayzid131/mdbayzid131/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+> 💡 **Setup Required:** To enable the snake animation, add a GitHub Actions workflow. See [Platane/snk](https://github.com/Platane/snk) for setup instructions.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📫 CONTACT / CONNECT                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 📫 Let's Connect
+
+<p align="center">
+  <i>I'm always open to interesting conversations, collaboration opportunities, and innovative project ideas.</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdbayzid131&label=PROFILE+VIEWS&color=0384fc&style=flat" alt="Profile Views" />
+  <a href="https://mdbayzid-portfolio.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-0384fc?style=for-the-badge" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/mdbayzid131" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:mdbayazid131@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://facebook.com/mdbayzid131" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
----
+<br>
 
-<p align="center">
-  <i>"Leveraging AI to turn imagination into executable code."</i><br>
-  <b>Stay Creative! 🚀</b>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎬 FOOTER                                                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.&author=Alan%20Kay" alt="Dev Quote" />
+
+  <br><br>
+
+  <b>🤝 If you find my work valuable, consider giving a ⭐</b><br>
+  <sub>It motivates me to keep building and sharing with the community.</sub>
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0384fc,100:0d1117&height=120&section=footer" width="100%" />
+
+</div>
