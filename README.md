@@ -354,20 +354,28 @@ focus: Mobile-First Development | AI-Augmented Workflows
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 CONTRIBUTION SNAKE                                                     -->
+<!-- 📈 CONTRIBUTION OVERVIEW                                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🐍 Contribution Snake
+## 📈 Contribution Overview
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdbayzid131/mdbayzid131/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdbayzid131/mdbayzid131/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mdbayzid131/mdbayzid131/output/github-snake-dark.svg" width="100%" />
-  </picture>
+  <a href="https://github.com/mdbayzid131">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdbayzid131&theme=tokyonight" width="100%" alt="Contribution Details" />
+  </a>
 </p>
 
-> 💡 **Setup Required:** To enable the snake animation, add a GitHub Actions workflow. See [Platane/snk](https://github.com/Platane/snk) for setup instructions.
+<p align="center">
+  <a href="https://github.com/mdbayzid131">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdbayzid131&theme=tokyonight" width="32%" alt="Repos Per Language" />
+  </a>
+  <a href="https://github.com/mdbayzid131">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdbayzid131&theme=tokyonight" width="32%" alt="Most Commit Language" />
+  </a>
+  <a href="https://github.com/mdbayzid131">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdbayzid131&theme=tokyonight&utcOffset=6" width="32%" alt="Productive Time" />
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
