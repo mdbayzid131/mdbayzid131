@@ -232,21 +232,16 @@ focus: Mobile-First Development | AI-Augmented Workflows
       <h3 align="center">🤖 AI & Productivity</h3>
       <br>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="Tools" /><br><br>
+        <img src="https://skillicons.dev/icons?i=github,openai,postman&theme=dark" alt="Tools" /><br><br>
         <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Antigravity-0384fc?style=for-the-badge" /><br>
-        <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/Antigravity-0384fc?style=for-the-badge" />
       </p>
     </td>
     <td valign="top" width="25%">
       <h3 align="center">🔧 DevTools & Design</h3>
       <br>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,git&theme=dark" alt="DevTools" /><br><br>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" />
+        <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,git,githubactions,windows,bash&perline=4&theme=dark" alt="DevTools" />
       </p>
     </td>
   </tr>
