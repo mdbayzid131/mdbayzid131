@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="prov-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="10" fill="#181b21"/>
+  <path d="M24 13 L35 19 L35 30 L24 36 L13 30 L13 19 Z M24 16 L16 20.5 L24 25 L32 20.5 Z M15 22.5 L15 28.5 L23 33 L23 27 Z M25 27 L25 33 L33 28.5 L33 22.5 Z" fill="url(#prov-grad)"/>
+</svg>
