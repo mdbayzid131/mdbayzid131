@@ -207,46 +207,57 @@ focus: Mobile-First Development | AI-Augmented Workflows
 
 <table>
   <tr>
-    <td valign="top" width="25%">
-      <h3 align="center">📱 Mobile & Frontend</h3>
+    <td valign="top" width="50%">
+      <h3 align="center">🚀 Mobile Engineering</h3>
       <br>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Mobile" /><br><br>
-        <img src="https://img.shields.io/badge/GetX-800080?style=for-the-badge&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Bloc-0384fc?style=for-the-badge" /><br>
-        <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge" /><br>
-        <img src="https://img.shields.io/badge/Material_3-6750A4?style=for-the-badge&logo=material-design&logoColor=white" />
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&theme=dark" alt="Mobile Engineering" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Dio-0175C2?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Localization-4CAF50?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
       </p>
     </td>
-    <td valign="top" width="25%">
-      <h3 align="center">☁️ Backend & Database</h3>
+    <td valign="top" width="50%">
+      <h3 align="center">⚡ Backend & Integrations</h3>
       <br>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=firebase,nodejs,express,mongodb&theme=dark" alt="Backend" /><br><br>
-        <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" /><br>
-        <img src="https://img.shields.io/badge/Dio_HTTP-0384fc?style=for-the-badge" /><br>
-        <img src="https://img.shields.io/badge/Hive_DB-FF6F00?style=for-the-badge" />
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend & Integrations" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Payment%20Integration-34A853?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Agora-099DFD?style=for-the-badge" />
       </p>
     </td>
-    <td valign="top" width="25%">
-      <h3 align="center">🤖 AI & Productivity</h3>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">🧰 Developer Toolkit</h3>
       <br>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="Tools" /><br><br>
-        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Antigravity-0384fc?style=for-the-badge" /><br>
-        <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" alt="Developer Toolkit" />
+        </a>
       </p>
     </td>
-    <td valign="top" width="25%">
-      <h3 align="center">🔧 DevTools & Design</h3>
+    <td valign="top" width="50%">
+      <h3 align="center">🤖 AI Workflow</h3>
       <br>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,git&theme=dark" alt="DevTools" /><br><br>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" />
+        <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prompt%20Engineering-7B61FF?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Requirement%20Analysis-1E90FF?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Debugging-FF6B00?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Documentation-2E3440?style=for-the-badge" />
       </p>
     </td>
   </tr>
