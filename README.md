@@ -90,46 +90,11 @@ Focus: Flutter, GetX, Firebase, REST API Integration, UI/UX Design, AI-Augmented
 <!-- 🎯 CURRENT FOCUS                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🎯 What I'm Building Now
+## 🎯 What I'm Up To
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔭 Currently Working On</h3>
-      <p>
-        • Production-grade Flutter apps with clean architecture<br>
-        • AI-integrated mobile experiences<br>
-        • Cross-platform solutions with shared business logic
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📚 Currently Learning</h3>
-      <p>
-        • Backend development with Node.js & Express<br>
-        • Database design with MongoDB & PostgreSQL<br>
-        • DevOps fundamentals & CI/CD pipelines
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤝 Open to Collaborate On</h3>
-      <p>
-        • Open-source Flutter packages & plugins<br>
-        • AI-powered mobile applications<br>
-        • Community-driven developer tools
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💡 Ask Me About</h3>
-      <p>
-        • Flutter architecture & best practices<br>
-        • GetX state management patterns<br>
-        • AI-augmented development workflows
-      </p>
-    </td>
-  </tr>
-</table>
+* **💻 Currently Crafting:** Refining cross-platform Flutter experiences, focusing on custom animations, clean architecture, and responsive UI layouts that work flawlessly on all devices.
+* **📚 Expanding Horizons:** Diving deep into backend engineering with **Node.js, Express, and MongoDB** to build scalable, full-stack architectures.
+* **🤝 Open for Collaboration:** Always excited to work on innovative mobile apps, open-source packages, or tools that make developers' lives easier.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
