@@ -70,23 +70,23 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```yaml
-name: MD Bayzid Hosen
-role: Software Engineer & Flutter Specialist
-education: B.Sc. in Computer Science & Engineering
-location: Bangladesh 🇧🇩
-focus: Mobile-First Development | AI-Augmented Workflows
+Name: MD Bayzid Hosen
+Role: Software Engineer & Flutter Specialist
+Education: B.Sc. in Computer Science & Engineering
+Location: Bangladesh 🇧🇩
+Focus: Mobile-First Development | AI-Augmented Workflows
 ```
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🏗️ **Software Engineer** specializing in **Flutter** with production-grade mobile applications
-- 🎨 Strong foundation in **UI/UX Design** — pixel-perfect, user-centric interfaces
-- 🔥 Expert in **GetX State Management**, **REST API Integration**, and **Firebase**
-- 🤖 Pioneering **AI-Augmented Development** — leveraging Gemini, GPT, and Antigravity AI to ship 3x faster
-- 📱 Delivered **5+ mobile applications** from concept to deployment
-- 🌱 Currently expanding into **Backend Architecture** (Node.js, Express, MongoDB)
-- 🎯 **2025 Goal:** Become a proficient Full-Stack Mobile Engineer
-- ⚡ **Fun Fact:** I debug with coffee ☕ and ship features with determination 💪
+-  **Software Engineer** specializing in **Flutter** with production-grade mobile applications
+-  Strong foundation in **UI/UX Design** — pixel-perfect, user-centric interfaces
+-  Expert in **GetX State Management**, **REST API Integration**, and **Firebase**
+-  Pioneering **AI-Augmented Development** — leveraging Gemini, GPT, and Antigravity AI to ship 3x faster
+-  Delivered **5+ mobile applications** from concept to deployment
+-  Currently expanding into **Backend Architecture** (Node.js, Express, MongoDB)
+-  **2025 Goal:** Become a proficient **Full-Stack Mobile Engineer**
+-  **Fun Fact:** I debug with coffee ☕ and ship features with determination 
 
 <br clear="right">
 
