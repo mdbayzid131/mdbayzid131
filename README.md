@@ -69,26 +69,46 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-```yaml
-name: MD Bayzid Hosen
-role: Software Engineer & Flutter Specialist
-education: B.Sc. in Computer Science & Engineering
-location: Bangladesh 🇧🇩
-focus: Mobile-First Development | AI-Augmented Workflows
-```
+<table>
+  <tr>
+    <td width="60%">
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img src="https://img.shields.io/badge/👤_Name-MD%20Bayzid%20Hosen-0384fc?style=for-the-badge&labelColor=0d1117" />
+<br>
+<img src="https://img.shields.io/badge/💼_Role-Software%20Engineer%20%26%20Flutter%20Specialist-7B61FF?style=for-the-badge&labelColor=0d1117" />
+<br>
+<img src="https://img.shields.io/badge/🎓_Education-B.Sc.%20in%20CSE-00C9A7?style=for-the-badge&labelColor=0d1117" />
+<br>
+<img src="https://img.shields.io/badge/📍_Location-Bangladesh%20🇧🇩-FF6B6B?style=for-the-badge&labelColor=0d1117" />
+<br>
+<img src="https://img.shields.io/badge/🎯_Focus-Mobile--First%20|%20AI--Augmented-ff9e64?style=for-the-badge&labelColor=0d1117" />
 
-- 🏗️ **Software Engineer** specializing in **Flutter** with production-grade mobile applications
-- 🎨 Strong foundation in **UI/UX Design** — pixel-perfect, user-centric interfaces
-- 🔥 Expert in **GetX State Management**, **REST API Integration**, and **Firebase**
-- 🤖 Pioneering **AI-Augmented Development** — leveraging Gemini, GPT, and Antigravity AI to ship 3x faster
-- 📱 Delivered **5+ mobile applications** from concept to deployment
-- 🌱 Currently expanding into **Backend Architecture** (Node.js, Express, MongoDB)
-- 🎯 **2025 Goal:** Become a proficient Full-Stack Mobile Engineer
-- ⚡ **Fun Fact:** I debug with coffee ☕ and ship features with determination 💪
+<br><br>
 
-<br clear="right">
+> 🏗️ **Software Engineer** specializing in **Flutter** with production-grade mobile apps
+>
+> 🎨 Strong foundation in **UI/UX Design** — pixel-perfect, user-centric interfaces
+>
+> 🔥 Expert in **GetX**, **REST API Integration**, and **Firebase**
+>
+> 🤖 Pioneering **AI-Augmented Development** — leveraging Gemini, GPT & Antigravity to ship **3x faster**
+>
+> 📱 Delivered **5+ mobile applications** from concept to deployment
+>
+> 🌱 Currently expanding into **Backend Architecture** (Node.js, Express, MongoDB)
+>
+> 🎯 **2025 Goal:** Become a proficient **Full-Stack Mobile Engineer**
+>
+> ⚡ **Fun Fact:** I debug with coffee ☕ and ship features with determination 💪
+
+</td>
+    <td width="40%" align="center">
+      <img alt="Coding" width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdbayzid131&layout=compact&theme=tokyonight&hide_border=true&title_color=0384fc&text_color=a9b1d6&bg_color=0d1117&langs_count=4" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
