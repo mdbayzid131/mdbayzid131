@@ -38,13 +38,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdbayzid131&label=Profile+Views&color=00f2fe&style=flat-square&labelColor=0d1117" alt="Profile Views" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/mdbayzid131?label=Followers&style=flat-square&color=00f2fe&labelColor=0d1117" alt="Followers" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/mdbayzid131?label=Stars&style=flat-square&color=8a2be2&labelColor=0d1117" alt="Stars" />
-</p>
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📌 QUICK NAVIGATION                                                       -->
