@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 260" width="100%" height="260" style="background:#090d16; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; border-radius: 16px;">
+  <!-- Definitions for gradients, filters, patterns -->
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a13" />
+      <stop offset="50%" stop-color="#0f1423" />
+      <stop offset="100%" stop-color="#05070f" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradient (Cyan to Indigo/Purple) -->
+    <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="50%" stop-color="#4facfe" />
+      <stop offset="100%" stop-color="#8a2be2" />
+    </linearGradient>
+
+    <!-- Neon Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background Rect with rounded corners -->
+  <rect width="850" height="260" rx="16" fill="url(#bg-grad)" />
+
+  <!-- Background Decorative Shapes / Grid -->
+  <!-- Left accent glow -->
+  <circle cx="50" cy="50" r="130" fill="#00f2fe" opacity="0.07" filter="url(#glow)"/>
+  <!-- Right accent glow -->
+  <circle cx="800" cy="210" r="150" fill="#8a2be2" opacity="0.09" filter="url(#glow)"/>
+
+  <!-- Futuristic abstract grid lines or shapes -->
+  <path d="M-50,130 C200,80 400,200 650,100 C750,60 850,90 900,80" fill="none" stroke="url(#accent-grad)" stroke-width="1.5" opacity="0.15" />
+  <path d="M-50,150 C220,100 380,220 630,120 C740,80 840,110 900,100" fill="none" stroke="url(#accent-grad)" stroke-width="1" opacity="0.1" />
+
+  <!-- Flutter Logo Silhouette in the background (subtle, right side) -->
+  <g transform="translate(630, 45) scale(0.6)" opacity="0.07">
+    <path d="M163.7,0 L81.8,81.8 L163.7,163.7 L245.5,81.8 Z" fill="#00f2fe"/>
+    <path d="M163.7,163.7 L81.8,245.5 L0,163.7 L81.8,81.8 Z" fill="#4facfe"/>
+    <path d="M245.5,81.8 L163.7,163.7 L245.5,245.5 L327.3,163.7 Z" fill="#8a2be2"/>
+  </g>
+
+  <!-- Main Content Layout -->
+  <!-- Decorative badge -->
+  <g transform="translate(60, 45)">
+    <rect x="0" y="0" width="150" height="24" rx="12" fill="#00f2fe" opacity="0.1" />
+    <rect x="0" y="0" width="150" height="24" rx="12" fill="none" stroke="#00f2fe" stroke-width="1.2" opacity="0.4" />
+    <text x="75" y="15" fill="#00f2fe" font-size="9" font-weight="800" letter-spacing="1.5" text-anchor="middle">SOFTWARE ENGINEER</text>
+  </g>
+
+  <!-- Name -->
+  <text x="60" y="115" fill="url(#accent-grad)" font-size="44" font-weight="800" letter-spacing="0.5">MD BAYZID HOSEN</text>
+
+  <!-- Title / Designation -->
+  <text x="60" y="155" fill="#ffffff" font-size="20" font-weight="600" letter-spacing="0.5" opacity="0.95">Specializing in Premium Flutter Experiences</text>
+
+  <!-- Features list -->
+  <g transform="translate(60, 185)">
+    <!-- Feature 1 -->
+    <circle cx="5" cy="-4" r="3" fill="#00f2fe" />
+    <text x="15" y="0" fill="#a9b1d6" font-size="13" font-weight="500">Cross-Platform Specialist</text>
+
+    <!-- Feature 2 -->
+    <circle cx="195" cy="-4" r="3" fill="#8a2be2" />
+    <text x="205" y="0" fill="#a9b1d6" font-size="13" font-weight="500">AI-Augmented Developer</text>
+
+    <!-- Feature 3 -->
+    <circle cx="375" cy="-4" r="3" fill="#4facfe" />
+    <text x="385" y="0" fill="#a9b1d6" font-size="13" font-weight="500">Pixel-Perfect UI Architect</text>
+  </g>
+
+  <!-- Subtle Bottom accent line -->
+  <rect x="60" y="215" width="730" height="2" rx="1" fill="url(#accent-grad)" opacity="0.25" />
+
+  <!-- Frame border to look like a premium card -->
+  <rect x="1" y="1" width="848" height="258" rx="15" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.06" />
+</svg>

@@ -1,9 +1,9 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎨 HEADER — Premium Animated Banner                                      -->
+<!-- 🎨 HEADER — Custom Premium Designed Banner                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0384fc,100:0d1117&height=220&section=header&text=MD%20BAYZID%20HOSEN&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Software%20Engineer%20%E2%80%A2%20Flutter%20Specialist%20%E2%80%A2%20AI-Augmented%20Developer&descAlignY=55&descSize=18&descColor=a9b1d6" width="100%" />
+  <img src="./icons/header_banner.svg" width="100%" alt="MD Bayzid Hosen - Software Engineer & Flutter Specialist" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0384FC&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Assalamu+Alaikum%2C+Welcome+to+my+Digital+Workshop;%F0%9F%93%B1+Crafting+Pixel-Perfect+Mobile+Experiences;%F0%9F%A4%96+Building+with+AI-Augmented+Development;%F0%9F%9A%80+Architecting+Scalable+Flutter+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%F0%9F%91%8B+Assalamu+Alaikum%2C+Welcome+to+my+Workshop;%F0%9F%93%B1+Crafting+Pixel-Perfect+Mobile+Experiences;%F0%9F%A4%96+Building+with+AI-Augmented+Development;%F0%9F%9A%80+Architecting+Scalable+Flutter+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://mdbayzid-portfolio.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0384fc?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=090D16" alt="Portfolio" />
   </a>&nbsp;
   <a href="https://linkedin.com/in/mdbayzid131" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -39,26 +39,26 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdbayzid131&label=Profile+Views&color=0384fc&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mdbayzid131&label=Profile+Views&color=00f2fe&style=flat-square&labelColor=0d1117" alt="Profile Views" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/mdbayzid131?label=Followers&style=flat-square&color=0384fc&labelColor=1a1b26" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/mdbayzid131?label=Followers&style=flat-square&color=00f2fe&labelColor=0d1117" alt="Followers" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/mdbayzid131?label=Stars&style=flat-square&color=0384fc&labelColor=1a1b26" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/mdbayzid131?label=Stars&style=flat-square&color=8a2be2&labelColor=0d1117" alt="Stars" />
 </p>
-
-<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📌 QUICK NAVIGATION                                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/About-a9b1d6?style=flat-square&logo=aboutdotme&logoColor=white" /></a>&nbsp;
-  <a href="#-what-im-building-now"><img src="https://img.shields.io/badge/Current_Focus-ff9e64?style=flat-square&logo=target&logoColor=white" /></a>&nbsp;
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-9ece6a?style=flat-square&logo=rocket&logoColor=white" /></a>&nbsp;
-  <a href="#-technical-arsenal"><img src="https://img.shields.io/badge/Tech_Stack-bb9af7?style=flat-square&logo=stackblitz&logoColor=white" /></a>&nbsp;
-  <a href="#-github-analytics"><img src="https://img.shields.io/badge/Stats-7aa2f7?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
-  <a href="#-lets-connect"><img src="https://img.shields.io/badge/Contact-f7768e?style=flat-square&logo=handshake&logoColor=white" /></a>
+  <b>
+    <a href="#-about-me">👤 About Me</a> &nbsp;•&nbsp; 
+    <a href="#-what-im-building-now">🎯 Current Focus</a> &nbsp;•&nbsp; 
+    <a href="#-featured-projects">🚀 Projects</a> &nbsp;•&nbsp; 
+    <a href="#-technical-arsenal">🛠️ Tech Stack</a> &nbsp;•&nbsp; 
+    <a href="#-github-analytics">📊 Analytics</a> &nbsp;•&nbsp; 
+    <a href="#-lets-connect">📫 Connect</a>
+  </b>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
