@@ -71,10 +71,10 @@
 
 ```yaml
 Name: MD Bayzid Hosen
-Role: Software Engineer & Flutter Specialist
+Designation: Software Engineer & Flutter Developer
 Education: B.Sc. in Computer Science & Engineering
-Location: Bangladesh 🇧🇩
-Focus: Mobile-First Development | AI-Augmented Workflows
+Location: Dhaka, Bangladesh
+Focus: Flutter, GetX, Firebase, REST API Integration, UI/UX Design, AI-Augmented Development
 ```
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
