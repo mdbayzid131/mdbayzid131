@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="hive-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="10" fill="#181b21"/>
+  <path d="M24 12 L30 15.5 L30 22.5 L24 26 L18 22.5 L18 15.5 Z" fill="none" stroke="url(#hive-grad)" stroke-width="2.5"/>
+  <path d="M33 22 L39 25.5 L39 32.5 L33 36 L27 32.5 L27 25.5 Z" fill="none" stroke="url(#hive-grad)" stroke-width="2.5"/>
+  <path d="M15 22 L21 25.5 L21 32.5 L15 36 L9 32.5 L9 25.5 Z" fill="none" stroke="url(#hive-grad)" stroke-width="2.5"/>
+</svg>
