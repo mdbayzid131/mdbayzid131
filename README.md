@@ -288,52 +288,6 @@ Focus: Flutter, GetX, Firebase, REST API Integration, UI/UX Design, AI-Augmented
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📈 CONTRIBUTION OVERVIEW                                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Overview
-
-<p align="center">
-  <a href="https://github.com/mdbayzid131">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdbayzid131&theme=tokyonight" width="100%" alt="Contribution Details" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mdbayzid131">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdbayzid131&theme=tokyonight" width="32%" alt="Repos Per Language" />
-  </a>
-  <a href="https://github.com/mdbayzid131">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdbayzid131&theme=tokyonight" width="32%" alt="Most Commit Language" />
-  </a>
-  <a href="https://github.com/mdbayzid131">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdbayzid131&theme=tokyonight&utcOffset=6" width="32%" alt="Productive Time" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📫 CONTACT / CONNECT                                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎬 FOOTER                                                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.&author=Alan%20Kay" alt="Dev Quote" />
-
-  <br><br>
-
-  <b>🤝 If you find my work valuable, consider giving a ⭐</b><br>
-  <sub>It motivates me to keep building and sharing with the community.</sub>
-
-  <br><br>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0384fc,100:0d1117&height=120&section=footer" width="100%" />
 
