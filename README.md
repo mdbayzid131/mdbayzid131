@@ -230,12 +230,9 @@ Focus: Flutter, GetX, Firebase, REST API Integration, UI/UX Design, AI-Augmented
 
 ## 💭 Development Philosophy
 
-> *"Code is poetry, but architecture makes it last."*
-
-* **📐 Clean & Structured:** I write code for humans to read and machines to execute. Maintainability, clean design patterns, and self-documenting code are my standard—every single time.
-* **🎨 User-First Design:** A pixel is never just a pixel; it's a touchpoint of user experience. I build with empathy, ensuring smooth transitions, perfect alignments, and fluid animations.
-* **🤖 AI-Augmented Speed:** I harness modern AI tools (Gemini, Antigravity AI, GPT) to speed up boilerplate generation and automate routines, allowing me to focus on high-level architecture.
-* **🌱 Continuous Growth:** In the rapidly shifting landscape of mobile tech, adaptability is the ultimate superpower. I stay curious, explore backend systems, and continuously expand my stack.
+<p align="center">
+  <img src="./icons/philosophy.svg" width="100%" alt="MD Bayzid Hosen - Development Philosophy" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
