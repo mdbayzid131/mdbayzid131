@@ -318,28 +318,7 @@ Focus: Flutter, GetX, Firebase, REST API Integration, UI/UX Design, AI-Augmented
 <!-- 📫 CONTACT / CONNECT                                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 📫 Let's Connect
 
-<p align="center">
-  <i>I'm always open to interesting conversations, collaboration opportunities, and innovative project ideas.</i>
-</p>
-
-<p align="center">
-  <a href="https://mdbayzid-portfolio.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-0384fc?style=for-the-badge" alt="Portfolio" />
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/mdbayzid131" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="mailto:mdbayazid131@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;
-  <a href="https://facebook.com/mdbayzid131" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
-
-<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🎬 FOOTER                                                                 -->
