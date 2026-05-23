@@ -230,30 +230,12 @@ Focus: Flutter, GetX, Firebase, REST API Integration, UI/UX Design, AI-Augmented
 
 ## 💭 Development Philosophy
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/48/code.png" width="40" /><br>
-      <b>Clean Code</b><br>
-      <sub>Readable, maintainable, and well-documented — every single time.</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/48/user-experience.png" width="40" /><br>
-      <b>User-First</b><br>
-      <sub>Every pixel serves a purpose. Design with empathy, build with precision.</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40" /><br>
-      <b>AI-Augmented</b><br>
-      <sub>Leverage intelligent tools to amplify human creativity, not replace it.</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/48/infinity.png" width="40" /><br>
-      <b>Never Stop</b><br>
-      <sub>Continuous learning is the only true competitive advantage.</sub>
-    </td>
-  </tr>
-</table>
+> *"Code is poetry, but architecture makes it last."*
+
+* **📐 Clean & Structured:** I write code for humans to read and machines to execute. Maintainability, clean design patterns, and self-documenting code are my standard—every single time.
+* **🎨 User-First Design:** A pixel is never just a pixel; it's a touchpoint of user experience. I build with empathy, ensuring smooth transitions, perfect alignments, and fluid animations.
+* **🤖 AI-Augmented Speed:** I harness modern AI tools (Gemini, Antigravity AI, GPT) to speed up boilerplate generation and automate routines, allowing me to focus on high-level architecture.
+* **🌱 Continuous Growth:** In the rapidly shifting landscape of mobile tech, adaptability is the ultimate superpower. I stay curious, explore backend systems, and continuously expand my stack.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
