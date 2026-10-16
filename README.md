@@ -12,8 +12,8 @@
   <a href="mailto:mdbayazid131@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;
-  <a href="https://github.com/mdbayzid131" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.facebook.com/mdbayzid131/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
@@ -58,12 +58,12 @@ Hi there! 👋 I'm **MD Bayzid Hosen**, a passionate **Software Engineer** speci
         </a>
       </p>
       <p>
-        A sleek, modern portfolio website deployed on Vercel. Showcases my projects, tech stack, and professional milestones.
+        A sleek, modern portfolio website built with Next.js & TypeScript, deployed on Vercel. Showcases my projects, tech stack, and professional milestones.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Flutter_Web-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter Web" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-        <img src="https://img.shields.io/badge/Responsive-9ece6a?style=flat-square" alt="Responsive" />
       </p>
     </td>
   </tr>
