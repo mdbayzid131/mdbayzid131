@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://bay-zid.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=090D16" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0070F3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>&nbsp;
   <a href="https://linkedin.com/in/mdbayzid131" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -54,7 +54,7 @@ Hi there! 👋 I'm **MD Bayzid Hosen**, a passionate **Software Engineer** speci
       <h3 align="center">🌐 Personal Portfolio</h3>
       <p align="center">
         <a href="https://bay-zid.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=090D16" alt="Live Demo" />
+          <img src="https://img.shields.io/badge/Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
         </a>
       </p>
       <p>
