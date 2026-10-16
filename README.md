@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mdbayzid-portfolio.web.app/" target="_blank">
+  <a href="https://bay-zid.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=090D16" alt="Portfolio" />
   </a>&nbsp;
   <a href="https://linkedin.com/in/mdbayzid131" target="_blank">
@@ -53,16 +53,16 @@ Hi there! 👋 I'm **MD Bayzid Hosen**, a passionate **Software Engineer** speci
     <td width="50%" valign="top">
       <h3 align="center">🌐 Personal Portfolio</h3>
       <p align="center">
-        <a href="https://mdbayzid-portfolio.web.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-00F2FE?style=for-the-badge&logo=firebase&logoColor=090D16" alt="Live Demo" />
+        <a href="https://bay-zid.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-00F2FE?style=for-the-badge&logo=vercel&logoColor=090D16" alt="Live Demo" />
         </a>
       </p>
       <p>
-        A sleek, modern portfolio website built with Flutter Web and deployed on Firebase Hosting. Showcases my projects, tech stack, and professional milestones.
+        A sleek, modern portfolio website deployed on Vercel. Showcases my projects, tech stack, and professional milestones.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter_Web-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter Web" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
         <img src="https://img.shields.io/badge/Responsive-9ece6a?style=flat-square" alt="Responsive" />
       </p>
     </td>
